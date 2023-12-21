@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###hosted URL -
+### hosted URL -
 https://react-lazy-infinite-scroll-boilerplate.onrender.com/
 ## Available Scripts
 
